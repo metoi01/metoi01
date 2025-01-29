@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Mert and I'm a student in Bilkent University studying CS at Ankara.
 
-- 🔭 I’m currently working on C# and Java
+- 🔭 I’m currently working on C++, C# and Java
 - 🌱 I’m currently learning CS
 
 <!--
